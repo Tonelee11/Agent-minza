@@ -12,7 +12,7 @@ const voiceBtn = document.getElementById('voiceBtn');
 const sendBtn = document.getElementById('sendBtn');
 
 // Webhook Configuration
-const WEBHOOK_URL = 'https://anthonyc.app.n8n.cloud/webhook/c1dd25e8-087e-4ae9-bc5d-aee202772af6/chat';
+const WEBHOOK_URL = 'https://automation.tanzlite.com:5678/webhook/c1dd25e8-087e-4ae9-bc5d-aee202772af6/chat';
 const ROUTE = 'general';
 
 // State Management
