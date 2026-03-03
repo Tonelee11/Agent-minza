@@ -13,7 +13,7 @@ const sendBtn = document.getElementById('sendBtn');
 
 // Webhook Configuration
 //const WEBHOOK_URL = 'https://automation.tanzlite.com:5678/webhook/c1dd25e8-087e-4ae9-bc5d-aee202772af6/chat';
-const WEBHOOK_URL = 'https://automation.tanzlite.com/webhook/7d983210-70e4-4ff9-a4d8-65b8cbfb5cb5/chat';
+const WEBHOOK_URL = 'https://tanzlite.app.n8n.cloud/webhook/7d983210-70e4-4ff9-a4d8-65b8cbfb5cb5/chat';
 const ROUTE = 'general';
 
 // State Management
