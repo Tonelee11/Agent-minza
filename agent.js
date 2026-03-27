@@ -262,7 +262,7 @@ async function sendMessage() {
         console.error('Error sending message to webhook:', error);
         removeTypingIndicator();
         
-        const errorMessage = "Sorry, I'm having trouble connecting right now. Please try again in a moment.";
+        const errorMessage = "Sorry, I'm having trouble connecting right now. Please contact Anthony, he might have hosted me somewhere";
         addMessageToChat(errorMessage, 'ai');
         updateConversation(errorMessage, 'ai');
     } finally {
